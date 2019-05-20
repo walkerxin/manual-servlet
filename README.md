@@ -1,3 +1,8 @@
 - 004：纯手工打造和运行一个 Servlet（编写【配置】-编译-运行）。
     - ManualServlet 使用配置文件的方式；
     - AnnotationServlet 使用 servlet 3.0 提供的注解方式。
+- javac -cp ./servlet-api.jar ~/ftp/ManualServlet.java
+- servletProj
+    - WEB-INF
+        - web.xml
+        - classes
